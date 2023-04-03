@@ -1,5 +1,15 @@
 ﻿// Entrada: Placar do jogo, time 1 e time 2;
-// Processamento: Informar se o resultado foi empate, se a vitoria foi do primeiro time ou do segundo.
+// Processamento: Informar se o resultado foi empate, se a vitoria foi do primeiro time ou do segundo. 
+
+Console.WriteLine(@$"
+| ≡ ≡ ≡ ≡ ≡ ≡ ≡ ≡ ≡ ≡ ≡≡ ≡|
+|                         |
+|     Programa            |
+|     para calcular       |
+|     resultado de time   |
+|                         |
+| ≡ ≡ ≡ ≡ ≡ ≡ ≡ ≡ ≡ ≡ ≡ ≡ |
+");
 
 Console.WriteLine($"Informe a quantidade de gols do time 1:");
 int time1 = int.Parse(Console.ReadLine());

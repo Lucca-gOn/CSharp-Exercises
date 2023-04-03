@@ -13,3 +13,18 @@ C:\Users\51021784826\Desktop\Exercicios CSharp\Exercicio 2\obj\Debug\net7.0\refi
 C:\Users\51021784826\Desktop\Exercicios CSharp\Exercicio 2\obj\Debug\net7.0\Exercicio 2.pdb
 C:\Users\51021784826\Desktop\Exercicios CSharp\Exercicio 2\obj\Debug\net7.0\Exercicio 2.genruntimeconfig.cache
 C:\Users\51021784826\Desktop\Exercicios CSharp\Exercicio 2\obj\Debug\net7.0\ref\Exercicio 2.dll
+C:\Users\Pc\Desktop\CSharp-exercises\Exercicio 2\bin\Debug\net7.0\Exercicio 2.exe
+C:\Users\Pc\Desktop\CSharp-exercises\Exercicio 2\bin\Debug\net7.0\Exercicio 2.deps.json
+C:\Users\Pc\Desktop\CSharp-exercises\Exercicio 2\bin\Debug\net7.0\Exercicio 2.runtimeconfig.json
+C:\Users\Pc\Desktop\CSharp-exercises\Exercicio 2\bin\Debug\net7.0\Exercicio 2.dll
+C:\Users\Pc\Desktop\CSharp-exercises\Exercicio 2\bin\Debug\net7.0\Exercicio 2.pdb
+C:\Users\Pc\Desktop\CSharp-exercises\Exercicio 2\obj\Debug\net7.0\Exercicio 2.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\CSharp-exercises\Exercicio 2\obj\Debug\net7.0\Exercicio 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\Desktop\CSharp-exercises\Exercicio 2\obj\Debug\net7.0\Exercicio 2.AssemblyInfoInputs.cache
+C:\Users\Pc\Desktop\CSharp-exercises\Exercicio 2\obj\Debug\net7.0\Exercicio 2.AssemblyInfo.cs
+C:\Users\Pc\Desktop\CSharp-exercises\Exercicio 2\obj\Debug\net7.0\Exercicio 2.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\CSharp-exercises\Exercicio 2\obj\Debug\net7.0\Exercicio 2.dll
+C:\Users\Pc\Desktop\CSharp-exercises\Exercicio 2\obj\Debug\net7.0\refint\Exercicio 2.dll
+C:\Users\Pc\Desktop\CSharp-exercises\Exercicio 2\obj\Debug\net7.0\Exercicio 2.pdb
+C:\Users\Pc\Desktop\CSharp-exercises\Exercicio 2\obj\Debug\net7.0\Exercicio 2.genruntimeconfig.cache
+C:\Users\Pc\Desktop\CSharp-exercises\Exercicio 2\obj\Debug\net7.0\ref\Exercicio 2.dll

@@ -1,23 +1,30 @@
 ﻿// Entrada: Salário recebido e o total gasto;
-// Processamento: “Gastos dentro do orçamento” se o valor não ultrapassar o valor do salário; “Orçamento estourado” se o valor gasto ultrapassar o valor do salário.
+// Processamento: gasto <= salario (Dentro do orçamento).
 
-Console.WriteLine($"Informe o salário recebido do mês:");
-int salario = int.Parse(Console.ReadLine());
+Console.WriteLine(@$"
+| ≡ ≡ ≡ ≡ ≡ ≡ ≡ ≡ ≡ ≡  ≡|
+|                       |
+|     Programa          |
+|     para calcular     |
+|     orçamento         |
+|                       |
+| ≡ ≡ ≡ ≡ ≡ ≡ ≡ ≡ ≡ ≡ ≡ |
+");
 
-Console.WriteLine($"Informe o total gasto no mês:");
-int gasto = int.Parse(Console.ReadLine());
+Console.Write($"Informe o salário recebido do mês:");
+float salario = float.Parse(Console.ReadLine());
 
-int salario = true;
-int gasto = false;
+Console.Write($"Informe o total gasto no mês:");
+float gasto = float.Parse(Console.ReadLine());
 
- if (salario >= gasto)
- {
-     Console.WriteLine($"Gastos dentro do orçamento");    
- }
- else
- {
-     Console.WriteLine($"Orçamento estourado");    
- }
+if (gasto <= salario)
+{
+    Console.WriteLine($"Gastos dentro do orçamento, permitido SEXTAR!");    
+}
+else
+{
+    Console.WriteLine($"Orçamento estourado, bora economizar?");    
+}
 
 
 
